@@ -12,7 +12,7 @@
 ```
 Just move the zip files into a folder name Maps in Vulnus's file locations
 ```
-* Importantinfo from MrfieryPotato
+* Important info from MrfieryPotato
 ```
 post map zips
 put map zips in your maps folder and the game will extract them for you etc etc
