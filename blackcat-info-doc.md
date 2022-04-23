@@ -1,5 +1,5 @@
 # **BlackCat's Info**
-### I will try to keep this section up-to-date!
+### Hi I'm BlackCat, just a gamer who usually like to show own content and gameplay! Enjoying games a lot, and make sure to click the description below to check out my further infomations.
 
 
 ## Also make sure to check out my social media!
@@ -21,3 +21,5 @@
 ## My Creations
 
 * [**My SoundSpace Maps**](https://drive.google.com/drive/u/0/folders/1JhFJgMxlIxOloVbnkaiNpsY66UDscdh3)
+
+## **I will try to keep this section up-to-date!**
