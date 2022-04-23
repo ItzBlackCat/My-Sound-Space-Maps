@@ -8,4 +8,6 @@
 ## About SoundSpace or Vulnus
 SoundSpace is currently down due to Roblox update previously and so the developer decide to build a game outside of Roblox named **Vulnus**. To install, join the Discord Server --> [**Vulnus**](https://discord.gg/w3PdcaG) <-- for further infomation!
 
+Thanks for reading!
+
 
