@@ -3,6 +3,8 @@
 
 ## My Creations
 
+### **Always extract the files before you pull into the game folders**
+
 * [**For Vulnus/Sound Space+**](https://drive.google.com/drive/u/0/folders/1JhFJgMxlIxOloVbnkaiNpsY66UDscdh3)
 * [**For Sound Space+**](https://drive.google.com/drive/u/0/folders/13JT9Yfxq2d0hDppCDnZk9Ew2r80Dxgh5)
 
