@@ -5,6 +5,8 @@
 
 ### **Official Maps for official game**
 
+[**Senya - 照らされるくらいの幸せ**](https://raw.githubusercontent.com/ItzBlackCat/My-Sound-Space-Maps/main/senya%20-%20照らされるくらいの幸せ.txt)
+
 ### **Always extract the files before you pull into the game folders**
 
 * [**For Vulnus/Sound Space+**](https://drive.google.com/drive/u/0/folders/1JhFJgMxlIxOloVbnkaiNpsY66UDscdh3)
