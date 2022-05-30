@@ -3,6 +3,9 @@
 
 ## My Creations
 
+* **Official Maps for official game**
+-
+
 ### **Always extract the files before you pull into the game folders**
 
 * [**For Vulnus/Sound Space+**](https://drive.google.com/drive/u/0/folders/1JhFJgMxlIxOloVbnkaiNpsY66UDscdh3)
@@ -11,7 +14,7 @@
 ## About Sound Space and others related
 ### **Disclaimers: All of these are credit to the owners, I don't own it**
 
-Official game Sound Space is currently down due to Roblox update previously. Join these servers to get further infomations.
+Official game Sound Space is coming back soon on June 1st!
 
 * [**Sound Space Studio**](https://discord.gg/soundspace) (**Official Server**)
 * [**Sound Space Quantum Editor**](https://discord.gg/9y94aM8deW)
