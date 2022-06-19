@@ -3,7 +3,7 @@
 
 ## My Creations
 
-### **Official Maps for official game**
+### **Official Maps just for Vulnus and Sound Space Plus**
 
 [**Senya - 照らされるくらいの幸せ**](https://raw.githubusercontent.com/ItzBlackCat/My-Sound-Space-Maps/main/senya%20-%20照らされるくらいの幸せ.txt)
 
