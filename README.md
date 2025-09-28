@@ -10,7 +10,7 @@
 ### **For other Sound Space games, always extract the files before you pull into the game folders**
 
 * [**For Vulnus/Sound Space+**](https://drive.google.com/drive/u/0/folders/1JhFJgMxlIxOloVbnkaiNpsY66UDscdh3)
-* [**For Sound Space+**](https://drive.google.com/drive/u/0/folders/13JT9Yfxq2d0hDppCDnZk9Ew2r80Dxgh5)
+* [**For Rhythia**](https://drive.google.com/drive/u/0/folders/13JT9Yfxq2d0hDppCDnZk9Ew2r80Dxgh5)
 
 ## About Sound Space and others related
 ### **Disclaimers: All of these are credit to the owners, I don't own it**
