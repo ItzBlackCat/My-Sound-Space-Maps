@@ -20,7 +20,7 @@ Official Sound Space is back!!
 * [**Sound Space Studio**](https://discord.gg/soundspace) (**Official Server**)
 * [**Sound Space Quantum Editor**](https://discord.gg/9y94aM8deW)
 * [**Vulnus**](https://discord.gg/vulnus)
-* [**Sound Space+**](https://discord.gg/ydhDrgrNZ7)
+* [**Rhythia**](https://discord.gg/ydhDrgrNZ7)
 
 **Reminder, don't mind the branches ontop, those are my old maps to show how bad I'm back then XD**
 
